@@ -1,0 +1,39 @@
+h1{
+    text-shadow: 4px 4px 4px black;
+    background-image:url('OIF.jpeg');
+    background-attachment:initial;
+    background-size: 10vw;
+    text-align:center;
+
+}
+h1{
+    color: rgb(255, 254, 254);
+}
+body{
+    background-image: url('R.jpeg');
+    background-attachment:fixed;
+    font-family: 'Arial', sans-serif;
+    background-color:rgb(97, 93, 93);
+}
+p{
+    font-size: 18px;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+}
+div{
+    
+    background-size: cover;
+    cursor: pointer;
+    width: 70%;
+    border: solid rgb(19, 18, 18) ;
+    box-shadow: 0 6px 8px rgb(12, 12, 12);
+    background-color: black;
+}
+footer{
+    color: rgb(3, 3, 80);
+}
+details{
+    color: rgb(255, 255, 255);
+}
+
+
